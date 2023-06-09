@@ -1,4 +1,4 @@
-<h1 align="center">About Aviv Shaked</h1>
+<h1 align="center">About Myself</h1>
 <h3 align="center">Intermediate Self Learning Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patcholie&label=Profile%20views&color=0e75b6&style=flat" alt="patcholie" /> </p>
