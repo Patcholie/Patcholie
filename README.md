@@ -1,17 +1,16 @@
 <h1 align="center">About Myself</h1>
-<h3 align="center">Intermediate Self Learning Programmer</h3>
+<h3 align="center">Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patcholie&label=Profile%20views&color=0e75b6&style=flat" alt="patcholie" /> </p>
 
-- 🌱 I’m currently learning **Full Stack + ( Node.js / Angular / React.js ) + Python**
+- 🌱 I’m currently learning **C, C#**
 
 - I worked on multiple projects, Including: **Analisis / AutoSlides / EyesClass**
 
-- 📫 How to reach me **aquamarined07@gmail.com / Instagram - avivshaked_**
+- 📫 How to reach me **aquamarined07@gmail.com / Instagram - \_avivshaked_**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1fZQGMS72E4LigVV3l1WLX_gFl5fiUsBWhaMZqYx9bXk/edit?usp=sharing](https://docs.google.com/document/d/1fZQGMS72E4LigVV3l1WLX_gFl5fiUsBWhaMZqYx9bXk/edit?usp=sharing)
 
-- ⚡ Fun fact **Looking forward to learn C++ and C# ! Currently Looking For Work !**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
