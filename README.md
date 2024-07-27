@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patcholie&label=Profile%20views&color=0e75b6&style=flat" alt="patcholie" /> </p>
 
-- 🌱 I’m currently learning **C, C#**
+- 🌱 I’m currently learning **C/C++, C#**
 
 - I worked on multiple projects, Including: **Analisis / AutoSlides / EyesClass**
 
