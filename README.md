@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patcholie&label=Profile%20views&color=0e75b6&style=flat" alt="patcholie" /> </p>
 
-- 🌱 I’m currently learning **C/C++, C#**
+- 🌱 I’m currently learning **Advanced RAII & OOP Programming**
 
 - I worked on multiple projects, Including: **Analisis / AutoSlides / EyesClass**
 
@@ -47,6 +47,10 @@
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
+    <a href="https://docs.microsoft.com/en-us/dotnet/assembly/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/assembly-original.svg" alt="csharp" width="40" height="40"/>
+  </a>
+
 </p>
 
 <br></br>
