@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aquamarined07@gmail.com / Instagram - \_avivshaked_**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1fZQGMS72E4LigVV3l1WLX_gFl5fiUsBWhaMZqYx9bXk/edit?usp=sharing) [My Site (DEKSTOP)](https://patcholie.github.io)
+- 📄 Know about my experiences [Resume](https://www.canva.com/design/DAGfRFLzpv4/Prvs0FP_AjXGmatjkT6u2A/view?utm_content=DAGfRFLzpv4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h51de110766) [My Site (DEKSTOP)](https://patcholie.github.io)
 
 
 ### Blogs posts
@@ -47,12 +47,10 @@
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/assembly/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/assembly-original.svg" alt="csharp" width="40" height="40"/>
+    <a href="https://en.wikipedia.org/wiki/X86_assembly_language" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/103866722/194773833-8571f323-4fa8-4036-a51c-57b9d29c683b.svg" alt="csharp" width="40" height="40"/>
   </a>
 
 </p>
 
 <br></br>
-
- <img align="left" style="border: 2px solid white; margin-right: -200px;" src="https://media.discordapp.net/attachments/735810937348423730/1116709064521560204/profile.png" alt="patcholie" />
