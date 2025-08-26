@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Advanced RAII & OOP Programming**
 
-- I worked on multiple projects, Including: **Analisis / AutoSlides / EyesClass**
+- I worked on multiple projects, Including: **Analisis / AutoSlides / EyesClass / HitchHiker**
 
 - 📫 How to reach me **aquamarined07@gmail.com / Instagram - \_avivshaked_**
 
