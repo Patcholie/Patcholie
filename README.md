@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aquamarined07@gmail.com / Instagram - \_avivshaked_**
 
-- 📄 Know about my experiences [Resume](https://www.canva.com/design/DAGfRFLzpv4/Prvs0FP_AjXGmatjkT6u2A/view?utm_content=DAGfRFLzpv4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h51de110766) [My Site (DEKSTOP)](https://patcholie.github.io)
+- 📄 Know about my experiences [Resume (OUTDATED)](https://www.canva.com/design/DAGfRFLzpv4/Prvs0FP_AjXGmatjkT6u2A/view?utm_content=DAGfRFLzpv4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h51de110766) [My Site (DEKSTOP)](https://patcholie.github.io)
 
 
 ### Blogs posts
