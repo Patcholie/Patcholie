@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aquamarined07@gmail.com / Instagram - \_avivshaked_**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Iw-EANMsI0ZchhUI34WiSNOlfMqfZZFb/view?usp=sharing) [My Site (DEKSTOP)](https://patcholie.github.io)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Iw-EANMsI0ZchhUI34WiSNOlfMqfZZFb/view?usp=sharing) [My Site](https://patcholie.github.io)
 
 
 ### Blogs posts
