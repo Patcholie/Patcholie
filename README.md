@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patcholie&label=Profile%20views&color=0e75b6&style=flat" alt="patcholie" /> </p>
 
-- 🌱 I’m currently learning **Advanced RAII & OOP Programming**
-
-- I worked on multiple projects, Including: **Analisis / AutoSlides / EyesClass / HitchHiker**
-
-- 📫 How to reach me **aquamarined07@gmail.com / Instagram - \_avivshaked_**
+<-- Work In Progress -->
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Iw-EANMsI0ZchhUI34WiSNOlfMqfZZFb/view?usp=sharing) [My Site](https://patcholie.github.io)
 
