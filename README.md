@@ -36,7 +36,7 @@ A production platform for covert communication via pure network steganography. M
 - **HitchHikerAPI** — unified interface; neither client nor server knows the underlying protocol mechanics
 - **Pluggable carrier system** — embedding targets fully modular; adding or removing a carrier changes nothing else
 - **Adaptive embedding** — multiple fields across multiple protocols per packet; bit-field precision throughout
-- **Full crypto pipeline** — ECDH secp256r1 · ChaCha20 · HKDF-SHA256 · Argon2id · CRC-32 via Crypto++
+- **Full crypto pipeline** — Key-exchange, Encryption, Hashing, Checksum
 
 `C++20` `CMake` `Crypto++` `libnetfilter_queue` `iptables` `FTXUI v5` `Redis` `SQLiteCpp` `spdlog` `tomlplusplus` `Docker` `OpenVPN` `AWS EC2`
 
