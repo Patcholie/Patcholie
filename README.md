@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:c9a227,100:0d1117&height=180&section=header&text=Aviv%20Shaked&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=Cybersecurity%20Developer%20%26%20Researcher&descAlignY=58&descSize=18&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:c9a227,100:0d1117&height=180&section=header&text=Aviv%20Shaked&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=Cybersecurity%20Developer%20&%20Researcher&descAlignY=58&descSize=18&animation=fadeIn)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&pause=1200&color=c9a227&center=true&vCenter=true&width=620&height=45&lines=Network+Steganography+%7C+Binary+Exploitation;Reverse+Engineering+%7C+C%2B%2B20+Systems;Building+what+shouldn%27t+exist." />
